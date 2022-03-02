@@ -1,0 +1,11 @@
+Directory = Folder
+ls    to list the folders and filea inthe current directory
+pwd - to check the path working directory
+cd  foldername -  change directory
+cd ..  - to change directory to the previous one
+cd ~  to go to the user directory
+cd / to go to the root
+mkdir foldername  - to create a folder
+touch  filename - to create a file
+rm  filename -to remove a file
+rm -rf - delete a folder 
