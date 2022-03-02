@@ -1,0 +1,12 @@
+git init 
+git config --global user.name "Yourname"
+git config --global user.email "Your email"
+git add "File name" or .
+git status
+git commit -m "My first commit using git"
+git log
+git reset (options: --hard and --soft)
+git remote add origin "Repo URl"
+ git remote  -v - To check the  name of my remote
+git branch to check the repo branches
+git push origin  branchname 
